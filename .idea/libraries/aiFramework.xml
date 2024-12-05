@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="aiFramework">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/aiFramework.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jagoclient.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

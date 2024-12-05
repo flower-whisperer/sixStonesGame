@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/AiDeveloper.iml" filepath="$PROJECT_DIR$/AiDeveloper.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/sixStonesGame.iml" filepath="$PROJECT_DIR$/.idea/sixStonesGame.iml" />
     </modules>
   </component>
 </project>
