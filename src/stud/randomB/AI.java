@@ -26,6 +26,7 @@ public class AI extends core.player.AI {
     public Move findNextMove(Move opponentMove) {
         this.board.makeMove(opponentMove);
         //在中心区域找不到落子位置次数
+//        System.out.println(this.board.getMoveList());
         int failTimes = 0;
         while (true) {
             //从中心13*13区域随机选
